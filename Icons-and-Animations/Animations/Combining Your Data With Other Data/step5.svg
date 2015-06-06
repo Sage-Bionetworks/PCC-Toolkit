@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="154.359px" height="133.912px" viewBox="0 -9.754 154.359 133.912" enable-background="new 0 -9.754 154.359 133.912"
+	 xml:space="preserve">
+<g display="none">
+	<g display="inline">
+		<g>
+			<ellipse fill="#4788C8" cx="74.013" cy="62.402" rx="8.802" ry="2.815"/>
+			<path fill="#4788C8" d="M65.211,64.235v4.224c0,0,1.984,2.508,8.701,2.508c6.718,0,8.903-2.444,8.903-2.444v-4.527
+				c0,0-2.16,2.264-8.903,2.264C67.168,66.257,65.211,64.235,65.211,64.235z"/>
+			<path fill="#4788C8" d="M65.211,70.088v4.224c0,0,1.984,2.508,8.701,2.508c6.718,0,8.903-2.445,8.903-2.445v-4.527
+				c0,0-2.16,2.266-8.903,2.266C67.168,72.106,65.211,70.088,65.211,70.088z"/>
+			<path fill="#4788C8" d="M65.211,75.899v4.224c0,0,1.984,2.508,8.701,2.508c6.718,0,8.903-2.446,8.903-2.446v-4.525
+				c0,0-2.16,2.264-8.903,2.264C67.168,77.92,65.211,75.899,65.211,75.899z"/>
+		</g>
+		<path fill="#81D3F0" d="M89.822,76.545c0-0.39,0-1.467,0-2.03c0-0.697-0.551-5.021-5.852-5.021c-5.303,0-5.847,4.208-5.847,5.021
+			c0,0.651,0,1.658,0,2.03H77.19c0,0,0,10.099,0,10.39s0.24,0.465,0.704,0.465c0.465,0,11.725,0,12.218,0
+			c0.494,0,0.639-0.114,0.639-0.465c0-0.349,0-10.39,0-10.39H89.822z M82.463,84.851l0.99-2.693
+			c-0.573-0.213-0.979-0.762-0.979-1.408c0-0.828,0.672-1.5,1.5-1.5c0.826,0,1.502,0.672,1.502,1.5c0,0.646-0.411,1.195-0.984,1.408
+			l0.992,2.693H82.463z M87.528,76.545h-7.253c0-0.396,0-1.471,0-1.685c0-0.26,0.203-3.396,3.695-3.396
+			c3.49,0,3.558,3.076,3.558,3.396C87.528,75.12,87.528,76.16,87.528,76.545z"/>
+	</g>
+	<path display="inline" fill="#4788C8" d="M49.148,34.837l-33.113,0.159c-1.9,0.009-3.434,1.557-3.425,3.458l0.312,64.779
+		c0.012,1.899,1.561,3.435,3.458,3.426l33.112-0.159c1.9-0.009,3.434-1.56,3.425-3.458l-0.312-64.779
+		C52.596,36.361,51.048,34.828,49.148,34.837z M32.931,105.614c-1.743,0.008-3.163-1.398-3.17-3.143
+		c-0.012-1.742,1.396-3.162,3.139-3.171c1.743-0.008,3.162,1.397,3.17,3.142C36.079,104.187,34.672,105.604,32.931,105.614z
+		 M50.073,97.396l-34.364,0.166l-0.246-51.208l34.363-0.165L50.073,97.396z"/>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 17.2126 61.5664)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100</text>
+		<text transform="matrix(1 0 0 1 17.2126 75.3281)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010</text>
+		<text transform="matrix(1 0 0 1 17.7214 88.5811)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101</text>
+	</g>
+	<g display="inline">
+		<path fill="#FBAB2C" d="M123.043,52.697c9.515,0,17.227,8.74,17.227,19.52c0,10.778-7.712,19.521-17.227,19.521
+			c-9.509,0-17.223-8.739-17.223-19.521C105.82,61.438,113.534,52.697,123.043,52.697z"/>
+		<path fill="#4788C8" d="M105.82,66.474h0.108c6.293,0,11.808-2.164,14.905-5.421c3.191,2.905,8.396,4.802,14.272,4.802
+			c1.586,0,3.121-0.141,4.582-0.397c-2.496-8.113-9.073-13.906-16.789-13.906C114.862,51.549,108.067,57.831,105.82,66.474z"/>
+		<path fill="#FFFFFF" d="M128.497,70.493c-1.742,0-3.157,1.415-3.157,3.158c0,1.742,1.415,3.158,3.157,3.158
+			c1.744,0,3.16-1.416,3.16-3.158C131.657,71.908,130.241,70.493,128.497,70.493z M117.591,70.493c-1.741,0-3.156,1.415-3.156,3.158
+			c0,1.742,1.415,3.158,3.156,3.158c1.743,0,3.157-1.416,3.157-3.158C120.748,71.908,119.334,70.493,117.591,70.493z"/>
+		<path fill="#4788C8" d="M117.591,72.217c-0.792,0-1.435,0.642-1.435,1.437c0,0.793,0.643,1.436,1.435,1.436
+			c0.79,0,1.438-0.643,1.438-1.436C119.025,72.856,118.381,72.217,117.591,72.217z M128.497,72.217
+			c-0.791,0-1.432,0.642-1.432,1.437c0,0.793,0.641,1.436,1.432,1.436c0.792,0,1.438-0.643,1.438-1.436
+			C129.934,72.856,129.289,72.217,128.497,72.217z"/>
+		<path fill="#FFFFFF" d="M123.109,84.865c-1.575,0-2.797-0.793-2.874-0.847c-0.396-0.267-0.504-0.801-0.242-1.192
+			c0.266-0.396,0.796-0.502,1.19-0.242c0.081,0.052,1.9,1.21,3.558,0.021c0.386-0.273,0.923-0.188,1.204,0.196
+			c0.276,0.386,0.188,0.925-0.199,1.202C124.846,84.649,123.93,84.865,123.109,84.865z"/>
+		<path fill="#FBAB2C" d="M123.043,87.717c-11.729,0-21.241,8.609-21.241,19.232h42.483
+			C144.285,96.326,134.775,87.717,123.043,87.717z"/>
+	</g>
+	
+		<line display="inline" fill="none" stroke="#95C0C9" stroke-width="6" stroke-miterlimit="10" x1="97.637" y1="38.457" x2="97.637" y2="106.849"/>
+	
+		<line display="inline" fill="none" stroke="#95C0C9" stroke-width="6" stroke-miterlimit="10" x1="58.137" y1="38.457" x2="58.137" y2="106.849"/>
+</g>
+<g display="none">
+	<g display="inline" opacity="0.6">
+		<g>
+			<ellipse fill="#4788C8" cx="74.013" cy="62.402" rx="8.802" ry="2.815"/>
+			<path fill="#4788C8" d="M65.211,64.235v4.224c0,0,1.984,2.508,8.701,2.508c6.718,0,8.903-2.444,8.903-2.444v-4.527
+				c0,0-2.16,2.264-8.903,2.264C67.168,66.257,65.211,64.235,65.211,64.235z"/>
+			<path fill="#4788C8" d="M65.211,70.088v4.224c0,0,1.984,2.508,8.701,2.508c6.718,0,8.903-2.445,8.903-2.445v-4.527
+				c0,0-2.16,2.266-8.903,2.266C67.168,72.106,65.211,70.088,65.211,70.088z"/>
+			<path fill="#4788C8" d="M65.211,75.899v4.224c0,0,1.984,2.508,8.701,2.508c6.718,0,8.903-2.446,8.903-2.446v-4.525
+				c0,0-2.16,2.264-8.903,2.264C67.168,77.92,65.211,75.899,65.211,75.899z"/>
+		</g>
+		<path fill="#81D3F0" d="M89.822,76.545c0-0.39,0-1.467,0-2.03c0-0.697-0.551-5.021-5.852-5.021c-5.303,0-5.847,4.208-5.847,5.021
+			c0,0.651,0,1.658,0,2.03H77.19c0,0,0,10.099,0,10.39s0.24,0.465,0.704,0.465c0.465,0,11.725,0,12.218,0
+			c0.494,0,0.639-0.114,0.639-0.465c0-0.349,0-10.39,0-10.39H89.822z M82.463,84.851l0.99-2.693
+			c-0.573-0.213-0.979-0.762-0.979-1.408c0-0.828,0.672-1.5,1.5-1.5c0.826,0,1.502,0.672,1.502,1.5c0,0.646-0.411,1.195-0.984,1.408
+			l0.992,2.693H82.463z M87.528,76.545h-7.253c0-0.396,0-1.471,0-1.685c0-0.26,0.203-3.396,3.695-3.396
+			c3.49,0,3.558,3.076,3.558,3.396C87.528,75.12,87.528,76.16,87.528,76.545z"/>
+	</g>
+	<path display="inline" opacity="0.6" fill="#4788C8" enable-background="new    " d="M49.148,34.837l-33.113,0.159
+		c-1.9,0.009-3.434,1.557-3.425,3.458l0.312,64.779c0.012,1.899,1.561,3.435,3.458,3.426l33.112-0.159
+		c1.9-0.009,3.434-1.56,3.425-3.458l-0.312-64.779C52.596,36.361,51.048,34.828,49.148,34.837z M32.931,105.614
+		c-1.743,0.008-3.163-1.398-3.17-3.143c-0.012-1.742,1.396-3.162,3.139-3.171c1.743-0.008,3.162,1.397,3.17,3.142
+		C36.079,104.187,34.672,105.604,32.931,105.614z M50.073,97.396l-34.364,0.166l-0.246-51.208l34.363-0.165L50.073,97.396z"/>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 17.2126 61.5664)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100</text>
+		<text transform="matrix(1 0 0 1 17.2126 75.3281)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010</text>
+		<text transform="matrix(1 0 0 1 17.7214 88.5811)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101</text>
+	</g>
+	<g display="inline" opacity="0.6">
+		<path fill="#FBAB2C" d="M123.043,52.697c9.515,0,17.227,8.74,17.227,19.52c0,10.778-7.712,19.521-17.227,19.521
+			c-9.509,0-17.223-8.739-17.223-19.521C105.82,61.438,113.534,52.697,123.043,52.697z"/>
+		<path fill="#4788C8" d="M105.82,66.474h0.108c6.293,0,11.808-2.164,14.905-5.421c3.191,2.905,8.396,4.802,14.272,4.802
+			c1.586,0,3.121-0.141,4.582-0.397c-2.496-8.113-9.073-13.906-16.789-13.906C114.862,51.549,108.067,57.831,105.82,66.474z"/>
+		<path fill="#FFFFFF" d="M128.497,70.493c-1.742,0-3.157,1.415-3.157,3.158c0,1.742,1.415,3.158,3.157,3.158
+			c1.744,0,3.16-1.416,3.16-3.158C131.657,71.908,130.241,70.493,128.497,70.493z M117.591,70.493c-1.741,0-3.156,1.415-3.156,3.158
+			c0,1.742,1.415,3.158,3.156,3.158c1.743,0,3.157-1.416,3.157-3.158C120.748,71.908,119.334,70.493,117.591,70.493z"/>
+		<path fill="#4788C8" d="M117.591,72.217c-0.792,0-1.435,0.642-1.435,1.437c0,0.793,0.643,1.436,1.435,1.436
+			c0.79,0,1.438-0.643,1.438-1.436C119.025,72.856,118.381,72.217,117.591,72.217z M128.497,72.217
+			c-0.791,0-1.432,0.642-1.432,1.437c0,0.793,0.641,1.436,1.432,1.436c0.792,0,1.438-0.643,1.438-1.436
+			C129.934,72.856,129.289,72.217,128.497,72.217z"/>
+		<path fill="#FFFFFF" d="M123.109,84.865c-1.575,0-2.797-0.793-2.874-0.847c-0.396-0.267-0.504-0.801-0.242-1.192
+			c0.266-0.396,0.796-0.502,1.19-0.242c0.081,0.052,1.9,1.21,3.558,0.021c0.386-0.273,0.923-0.188,1.204,0.196
+			c0.276,0.386,0.188,0.925-0.199,1.202C124.846,84.649,123.93,84.865,123.109,84.865z"/>
+		<path fill="#FBAB2C" d="M123.043,87.717c-11.729,0-21.241,8.609-21.241,19.232h42.483
+			C144.285,96.326,134.775,87.717,123.043,87.717z"/>
+	</g>
+	
+		<line display="inline" opacity="0.6" fill="none" stroke="#95C0C9" stroke-width="6" stroke-miterlimit="10" enable-background="new    " x1="97.637" y1="38.457" x2="97.637" y2="106.849"/>
+	
+		<line display="inline" opacity="0.6" fill="none" stroke="#95C0C9" stroke-width="6" stroke-miterlimit="10" enable-background="new    " x1="58.137" y1="38.457" x2="58.137" y2="106.849"/>
+</g>
+<g display="none">
+	<g display="inline" opacity="0.3">
+		<g>
+			<ellipse fill="#4788C8" cx="74.013" cy="62.402" rx="8.802" ry="2.815"/>
+			<path fill="#4788C8" d="M65.211,64.235v4.224c0,0,1.984,2.508,8.701,2.508c6.718,0,8.903-2.444,8.903-2.444v-4.527
+				c0,0-2.16,2.264-8.903,2.264C67.168,66.257,65.211,64.235,65.211,64.235z"/>
+			<path fill="#4788C8" d="M65.211,70.088v4.224c0,0,1.984,2.508,8.701,2.508c6.718,0,8.903-2.445,8.903-2.445v-4.527
+				c0,0-2.16,2.266-8.903,2.266C67.168,72.106,65.211,70.088,65.211,70.088z"/>
+			<path fill="#4788C8" d="M65.211,75.899v4.224c0,0,1.984,2.508,8.701,2.508c6.718,0,8.903-2.446,8.903-2.446v-4.525
+				c0,0-2.16,2.264-8.903,2.264C67.168,77.92,65.211,75.899,65.211,75.899z"/>
+		</g>
+		<path fill="#81D3F0" d="M89.822,76.545c0-0.39,0-1.467,0-2.03c0-0.697-0.551-5.021-5.852-5.021c-5.303,0-5.847,4.208-5.847,5.021
+			c0,0.651,0,1.658,0,2.03H77.19c0,0,0,10.099,0,10.39s0.24,0.465,0.704,0.465c0.465,0,11.725,0,12.218,0
+			c0.494,0,0.639-0.114,0.639-0.465c0-0.349,0-10.39,0-10.39H89.822z M82.463,84.851l0.99-2.693
+			c-0.573-0.213-0.979-0.762-0.979-1.408c0-0.828,0.672-1.5,1.5-1.5c0.826,0,1.502,0.672,1.502,1.5c0,0.646-0.411,1.195-0.984,1.408
+			l0.992,2.693H82.463z M87.528,76.545h-7.253c0-0.396,0-1.471,0-1.685c0-0.26,0.203-3.396,3.695-3.396
+			c3.49,0,3.558,3.076,3.558,3.396C87.528,75.12,87.528,76.16,87.528,76.545z"/>
+	</g>
+	<path display="inline" opacity="0.3" fill="#4788C8" enable-background="new    " d="M49.148,34.837l-33.113,0.159
+		c-1.9,0.009-3.434,1.557-3.425,3.458l0.312,64.779c0.012,1.899,1.561,3.435,3.458,3.426l33.112-0.159
+		c1.9-0.009,3.434-1.56,3.425-3.458l-0.312-64.779C52.596,36.361,51.048,34.828,49.148,34.837z M32.931,105.614
+		c-1.743,0.008-3.163-1.398-3.17-3.143c-0.012-1.742,1.396-3.162,3.139-3.171c1.743-0.008,3.162,1.397,3.17,3.142
+		C36.079,104.187,34.672,105.604,32.931,105.614z M50.073,97.396l-34.364,0.166l-0.246-51.208l34.363-0.165L50.073,97.396z"/>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 17.2126 61.5664)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100</text>
+		<text transform="matrix(1 0 0 1 17.2126 75.3281)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010</text>
+		<text transform="matrix(1 0 0 1 17.7214 88.5811)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101</text>
+	</g>
+	<g display="inline" opacity="0.3">
+		<path fill="#FBAB2C" d="M123.043,52.697c9.515,0,17.227,8.74,17.227,19.52c0,10.778-7.712,19.521-17.227,19.521
+			c-9.509,0-17.223-8.739-17.223-19.521C105.82,61.438,113.534,52.697,123.043,52.697z"/>
+		<path fill="#4788C8" d="M105.82,66.474h0.108c6.293,0,11.808-2.164,14.905-5.421c3.191,2.905,8.396,4.802,14.272,4.802
+			c1.586,0,3.121-0.141,4.582-0.397c-2.496-8.113-9.073-13.906-16.789-13.906C114.862,51.549,108.067,57.831,105.82,66.474z"/>
+		<path fill="#FFFFFF" d="M128.497,70.493c-1.742,0-3.157,1.415-3.157,3.158c0,1.742,1.415,3.158,3.157,3.158
+			c1.744,0,3.16-1.416,3.16-3.158C131.657,71.908,130.241,70.493,128.497,70.493z M117.591,70.493c-1.741,0-3.156,1.415-3.156,3.158
+			c0,1.742,1.415,3.158,3.156,3.158c1.743,0,3.157-1.416,3.157-3.158C120.748,71.908,119.334,70.493,117.591,70.493z"/>
+		<path fill="#4788C8" d="M117.591,72.217c-0.792,0-1.435,0.642-1.435,1.437c0,0.793,0.643,1.436,1.435,1.436
+			c0.79,0,1.438-0.643,1.438-1.436C119.025,72.856,118.381,72.217,117.591,72.217z M128.497,72.217
+			c-0.791,0-1.432,0.642-1.432,1.437c0,0.793,0.641,1.436,1.432,1.436c0.792,0,1.438-0.643,1.438-1.436
+			C129.934,72.856,129.289,72.217,128.497,72.217z"/>
+		<path fill="#FFFFFF" d="M123.109,84.865c-1.575,0-2.797-0.793-2.874-0.847c-0.396-0.267-0.504-0.801-0.242-1.192
+			c0.266-0.396,0.796-0.502,1.19-0.242c0.081,0.052,1.9,1.21,3.558,0.021c0.386-0.273,0.923-0.188,1.204,0.196
+			c0.276,0.386,0.188,0.925-0.199,1.202C124.846,84.649,123.93,84.865,123.109,84.865z"/>
+		<path fill="#FBAB2C" d="M123.043,87.717c-11.729,0-21.241,8.609-21.241,19.232h42.483
+			C144.285,96.326,134.775,87.717,123.043,87.717z"/>
+	</g>
+	
+		<line display="inline" opacity="0.3" fill="none" stroke="#95C0C9" stroke-width="6" stroke-miterlimit="10" enable-background="new    " x1="97.637" y1="38.457" x2="97.637" y2="106.849"/>
+	
+		<line display="inline" opacity="0.3" fill="none" stroke="#95C0C9" stroke-width="6" stroke-miterlimit="10" enable-background="new    " x1="58.137" y1="38.457" x2="58.137" y2="106.849"/>
+</g>
+<g display="none">
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 17.2126 61.5664)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100</text>
+		<text transform="matrix(1 0 0 1 17.2126 75.3281)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010</text>
+		<text transform="matrix(1 0 0 1 17.7214 88.5811)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101</text>
+	</g>
+</g>
+<g display="none">
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 17.2126 61.5664)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+		<text transform="matrix(1 0 0 1 17.2126 75.3281)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+		<text transform="matrix(1 0 0 1 17.7214 88.5811)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+		<text transform="matrix(1 0 0 1 17.7214 103.1299)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	</g>
+</g>
+<g display="none">
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 17.2126 61.5664)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">11000011</text>
+		<text transform="matrix(1 0 0 1 17.2126 75.3281)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">10101100</text>
+		<text transform="matrix(1 0 0 1 17.7214 88.5811)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">01011001</text>
+		<text transform="matrix(1 0 0 1 17.7214 103.1299)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">01011001</text>
+	</g>
+	<g display="inline">
+		<text transform="matrix(1 0 0 1 -28.4304 61.5664)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+		<text transform="matrix(1 0 0 1 -28.4304 75.3281)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+		<text transform="matrix(1 0 0 1 -27.9216 88.5811)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+		<text transform="matrix(1 0 0 1 -27.9216 103.1299)" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	</g>
+	
+		<text transform="matrix(1 0 0 1 17.2126 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">10101100</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+</g>
+<g display="none">
+	
+		<text transform="matrix(1 0 0 1 17.2126 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100001100</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100111</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100110</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100001101</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110011</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+</g>
+<g display="none">
+	
+		<text transform="matrix(1 0 0 1 17.2126 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100001100101</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001001</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100111010</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100110011</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100001101001</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110011101</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001110</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100111000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001100</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+</g>
+<g display="none">
+	
+		<text transform="matrix(1 0 0 1 17.2126 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100001100101</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001001</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100111010</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100110011</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100001101001</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110011101</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001110</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100111000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001100</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 -0.6621)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001110</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 -0.6621)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 -0.6621)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+</g>
+<g display="none" opacity="0.6">
+	
+		<text transform="matrix(1 0 0 1 17.2126 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100001100101</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001001</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100111010</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100110011</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100001101001</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110011101</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001110</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100111000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001100</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 -0.6621)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001110</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 -0.6621)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 -0.6621)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+</g>
+<g display="none" opacity="0.3">
+	
+		<text transform="matrix(1 0 0 1 17.2126 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100001100101</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001001</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100111010</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100110011</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1100001101001</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110011101</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001110</text>
+	
+		<text transform="matrix(1 0 0 1 17.7214 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0101100111000</text>
+	
+		<text transform="matrix(1 0 0 1 -28.4304 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 17.2126 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1010110001100</text>
+	
+		<text transform="matrix(1 0 0 1 -27.9216 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 61.5664)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 75.3281)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">110000</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 49.6533)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 88.5811)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 113.1365 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 103.1299)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">010110</text>
+	
+		<text transform="matrix(1 0 0 1 113.6462 115.5)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">101011</text>
+</g>
+<g display="none">
+	
+		<text transform="matrix(1 0 0 1 54.6252 10.4336)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">1000</text>
+	
+		<text transform="matrix(1 0 0 1 55.1428 23.6855)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0011</text>
+	
+		<text transform="matrix(1 0 0 1 54.6252 35.8916)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="11.2139">0110</text>
+</g>
+<g display="none">
+	
+		<text transform="matrix(1 0 0 1 64.2654 7.3867)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="7.6628">1000</text>
+	
+		<text transform="matrix(1 0 0 1 64.6174 16.4434)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="7.6628">0011</text>
+	
+		<text transform="matrix(1 0 0 1 64.2654 24.7832)" display="inline" fill="#AAD485" font-family="'Arial-Black'" font-size="7.6628">0110</text>
+</g>
+<g>
+	<g>
+		<g>
+			<text transform="matrix(1 0 0 1 67.9006 3.5918)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1000</text>
+			<text transform="matrix(1 0 0 1 67.9006 11.6689)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">0011</text>
+			<text transform="matrix(1 0 0 1 68.2004 19.4473)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">0110</text>
+		</g>
+	</g>
+	
+		<rect x="61.23" y="-3.171" fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" width="31.24" height="24.253"/>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 14.1829 73.8027)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1100</text>
+				<text transform="matrix(1 0 0 1 14.1829 81.8789)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1010</text>
+				<text transform="matrix(1 0 0 1 14.4822 89.6582)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">0101</text>
+			</g>
+		</g>
+		
+			<rect x="7.512" y="65.013" fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" width="31.238" height="29.038"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 51.2473 73.8027)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1100</text>
+				<text transform="matrix(1 0 0 1 51.2473 81.8789)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1010</text>
+				<text transform="matrix(1 0 0 1 51.5461 89.6582)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">0101</text>
+			</g>
+		</g>
+		
+			<rect x="44.578" y="65.013" fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" width="31.239" height="29.038"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 88.3123 73.8027)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1100</text>
+				<text transform="matrix(1 0 0 1 88.3123 81.8789)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1010</text>
+				<text transform="matrix(1 0 0 1 88.613 89.6582)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">0101</text>
+			</g>
+		</g>
+		
+			<rect x="81.642" y="65.013" fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" width="31.239" height="29.038"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 125.3787 73.8027)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1100</text>
+				<text transform="matrix(1 0 0 1 125.3787 81.8789)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1010</text>
+				<text transform="matrix(1 0 0 1 125.6775 89.6582)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">0101</text>
+			</g>
+		</g>
+		
+			<rect x="118.709" y="65.013" fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" width="31.238" height="29.038"/>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 32.1453 38.9121)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1100</text>
+				<text transform="matrix(1 0 0 1 32.1453 46.9893)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1010</text>
+				<text transform="matrix(1 0 0 1 32.4426 54.7686)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">0101</text>
+			</g>
+		</g>
+		
+			<rect x="25.474" y="30.124" fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" width="31.237" height="29.037"/>
+	</g>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 1 104.7996 38.9131)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1100</text>
+				<text transform="matrix(1 0 0 1 104.7996 46.9902)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">1010</text>
+				<text transform="matrix(1 0 0 1 105.0974 54.7695)" fill="#A9D384" font-family="'Arial-Black'" font-size="6.5816">0101</text>
+			</g>
+		</g>
+		
+			<rect x="98.129" y="30.124" fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" width="31.24" height="29.037"/>
+	</g>
+</g>
+<g>
+	
+		<line fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" x1="67.943" y1="21.082" x2="39.094" y2="30.124"/>
+	
+		<line fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" x1="85.223" y1="21.082" x2="114.072" y2="30.124"/>
+</g>
+<g>
+	
+		<line fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" x1="33.928" y1="59.285" x2="23.459" y2="64.933"/>
+	
+		<line fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" x1="107.732" y1="59.285" x2="97.261" y2="64.933"/>
+	
+		<line fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" x1="123.373" y1="59.285" x2="133.845" y2="64.933"/>
+	
+		<line fill="none" stroke="#FAAA2C" stroke-width="1.2456" stroke-miterlimit="10" x1="49.568" y1="59.285" x2="60.04" y2="64.933"/>
+</g>
+<g>
+	<path fill="#4787C7" d="M27.117,100.836v-2.278c0-0.093-0.02-0.179-0.049-0.262c0.312-0.039,0.557-0.304,0.557-0.628
+		c0-0.351-0.284-0.635-0.635-0.635h-3.812c-0.351,0-0.634,0.284-0.634,0.635c0,0.324,0.242,0.589,0.557,0.628
+		c-0.03,0.083-0.048,0.169-0.048,0.262v2.285l-4.828,11.688c-0.148,0.401,0.342,0.762,0.764,0.762h12.193
+		c0.422,0,0.91-0.375,0.762-0.762L27.117,100.836z"/>
+	<path fill="#FFFFFF" d="M27.953,104.927c1.268,3.133,2.973,7.096,2.973,7.096c0.15,0.371-0.084,0.51-0.507,0.51H19.75
+		c-0.422,0-0.631-0.116-0.508-0.51c0,0,1.62-4.004,2.877-7.106C23.739,103.504,25.269,105.435,27.953,104.927z"/>
+	<path fill="#4787C7" d="M24.449,107.703c-0.772,0-1.396,0.627-1.396,1.397c0,0.771,0.623,1.396,1.396,1.396
+		c0.773,0,1.396-0.625,1.396-1.396C25.845,108.33,25.222,107.703,24.449,107.703z M27.117,106.813c0-0.352-0.283-0.635-0.636-0.635
+		c-0.351,0-0.636,0.283-0.636,0.635s0.285,0.636,0.636,0.636C26.834,107.449,27.117,107.165,27.117,106.813z M27.88,109.228
+		c-0.562,0-1.017,0.455-1.017,1.018s0.455,1.016,1.017,1.016c0.562,0,1.016-0.453,1.016-1.016S28.441,109.228,27.88,109.228z"/>
+	<path fill="#FFFFFF" d="M23.052,98.558h4.064c0-0.09-0.02-0.174-0.047-0.254h-3.971C23.069,98.384,23.052,98.468,23.052,98.558z"/>
+</g>
+<g>
+	<path fill="#4787C7" d="M54.937,100.343v12.12c0,0.427,0.949,0.772,2.146,0.772c1.195,0,2.166-0.348,2.166-0.772v-12.12H54.937z"/>
+	<path fill="#4787C7" d="M57.094,99.569c1.19,0,2.155,0.346,2.155,0.772s-0.965,0.774-2.155,0.774c-1.191,0-2.156-0.348-2.156-0.774
+		S55.902,99.569,57.094,99.569z"/>
+	<path fill="#4787C7" d="M59.978,102.89v9.573c0,0.427,0.948,0.772,2.146,0.772c1.195,0,2.166-0.348,2.166-0.772v-9.573H59.978z"/>
+	<path fill="#4787C7" d="M62.135,102.115c1.189,0,2.156,0.346,2.156,0.772c0,0.428-0.967,0.773-2.156,0.773
+		c-1.19,0-2.155-0.346-2.155-0.773C59.979,102.461,60.945,102.115,62.135,102.115z"/>
+	<path fill="#4787C7" d="M64.925,97.81v14.653c0,0.427,0.95,0.772,2.146,0.772c1.197,0,2.167-0.348,2.167-0.772V97.81H64.925z"/>
+	<path fill="#4787C7" d="M67.08,97.035c1.191,0,2.157,0.346,2.157,0.772c0,0.428-0.966,0.773-2.157,0.773
+		c-1.188,0-2.155-0.346-2.155-0.773C64.925,97.381,65.89,97.035,67.08,97.035z"/>
+</g>
+<g>
+	<circle fill="#4787C7" cx="92.535" cy="98.057" r="1.053"/>
+	<circle fill="#4787C7" cx="97.429" cy="98.057" r="1.053"/>
+	<path fill="#4787C7" d="M103.638,104.292c-1.393,0-2.521,1.127-2.521,2.52c0,1.391,1.128,2.518,2.521,2.518
+		c1.391,0,2.518-1.127,2.518-2.518C106.156,105.419,105.029,104.292,103.638,104.292z M103.638,108.158
+		c-0.745,0-1.349-0.604-1.349-1.349s0.604-1.348,1.349-1.348c0.743,0,1.348,0.604,1.348,1.348
+		C104.986,107.556,104.383,108.158,103.638,108.158z"/>
+	<circle fill="#4787C7" cx="103.638" cy="106.811" r="0.594"/>
+	<path fill="#4787C7" d="M91.816,97.545c0,0-1.719,0.74-1.719,1.563c0,5.293,3.769,7.939,3.769,7.939
+		c-0.087,0.739,0.654,1.457,0.654,1.457s0.168,4.396,4.835,4.396c4.668,0,4.877-3.777,4.877-3.777h-1.188
+		c0,0,0.017,2.676-3.717,2.676s-3.727-3.467-3.727-3.467c0.455-0.203,0.774-1.343,0.774-1.343s3.486-2.304,3.486-7.882
+		c0-1.023-1.734-1.564-1.734-1.564l-0.224,1.166c0,0,0.854,0.146,0.854,0.568c0,1.627-1.635,6.832-3.605,6.832
+		c-1.973,0-3.819-4.469-3.819-6.803c0-0.455,1.074-0.568,1.074-0.568L91.816,97.545z"/>
+</g>
+<g>
+	<path fill="#4787C7" d="M137.125,106.033l0.896-0.898l4.252,4.252l-0.898,0.898L137.125,106.033z"/>
+	<path fill="#4787C7" d="M142.924,110.522l-0.502,0.5c-0.346,0.347-0.905,0.347-1.251,0l-2.927-2.924
+		c-0.346-0.346-0.346-0.906,0-1.252l0.503-0.502c0.346-0.346,0.906-0.346,1.253,0l2.924,2.924
+		C143.269,109.615,143.269,110.176,142.924,110.522z"/>
+	<path fill="#4787C7" d="M134.472,97.789c2.592,0,4.694,2.103,4.694,4.694c0,2.594-2.104,4.695-4.694,4.695
+		c-2.594,0-4.695-2.103-4.695-4.695C129.777,99.892,131.88,97.789,134.472,97.789z"/>
+	<path fill="#FFFFFF" d="M134.472,98.853c2.006,0,3.631,1.627,3.631,3.633s-1.625,3.632-3.631,3.632s-3.633-1.626-3.633-3.632
+		S132.468,98.853,134.472,98.853z"/>
+</g>
+</svg>
